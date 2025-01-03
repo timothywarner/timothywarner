@@ -1,11 +1,11 @@
 # 🌟 Tim Warner - AI & Cloud Computing Thought Leader
 
-[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/PublicProfile/4020146)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timothywarner)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@TechTrainerTim)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/e9a13bca-2798-4247-be56-f116f780869d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timothywarner/)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCim7PFtynyPuzMHtbNyYOXA)
 [![Website](https://img.shields.io/badge/Website-Visit-00A98F?style=for-the-badge&logo=about.me)](https://techtrainertim.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/timothywarner)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/TechTrainerTim)
+[![Bluesky](https://img.shields.io/badge/Bluesky-Follow-1DA1F2?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/techtrainertim.bsky.social)
 
 > 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Distinguished Technical Trainer | 📚 Author | 🏆 Microsoft MVP
 
@@ -81,10 +81,11 @@ Infrastructure     ⭐⭐⭐⭐   Cloud-native & hybrid solutions
 ## 📫 Connect & Collaborate
 
 - 🌐 [TechTrainerTim.com](https://techtrainertim.com)
-- 📧 [Email](mailto:tim@techtrainertim.com)
+- 📧 [Email](mailto:timothywarner316@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/timothywarner/)
-- 🎥 [YouTube](https://youtube.com/@TechTrainerTim)
-- 🐦 [Twitter](https://twitter.com/TechTrainerTim)
+- 🎥 [YouTube](https://www.youtube.com/channel/UCim7PFtynyPuzMHtbNyYOXA)
+- 🦋 [Bluesky](https://bsky.app/profile/techtrainertim.bsky.social)
+- 🐘 [Mastodon](https://mastodon.social/@techtrainertim)
 - 📝 [Blog](https://techtrainertim.com/blog)
 - 📚 [Pluralsight](https://www.pluralsight.com/authors/tim-warner)
 - 🎓 [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
