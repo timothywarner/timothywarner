@@ -1,62 +1,100 @@
-# 👋 Hi, I'm Tim!
+# 🌟 Tim Warner - AI & Cloud Computing Thought Leader
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/timothywarner)
-[![Website](https://img.shields.io/badge/Website-Visit-green)](https://techtrainertim.com)
+[![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/PublicProfile/4020146)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/timothywarner)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@TechTrainerTim)
+[![Website](https://img.shields.io/badge/Website-Visit-00A98F?style=for-the-badge&logo=about.me)](https://techtrainertim.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/timothywarner)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/TechTrainerTim)
 
-> 🎓 Tech Trainer | 🤖 AI Enthusiast | ☁️ Cloud Architect | 🔄 DevOps Engineer
+> 🤖 Generative AI Pioneer | ☁️ Cloud Architecture Expert | 🎓 Distinguished Technical Trainer | 📚 Author | 🏆 Microsoft MVP
 
 ## 🚀 About Me
 
-I'm passionate about bridging the gap between complex technology and human understanding. With 28 years in tech education and hands-on development, I specialize in making difficult concepts accessible while maintaining technical depth.
+Pioneering the intersection of artificial intelligence and cloud computing with 30+ years of industry expertise. I'm dedicated to democratizing complex technology through engaging education and practical implementation.
 
-- 🎯 Currently focused on: Generative AI, Cloud Architecture, and DevOps Excellence
-- 🌱 Teaching others about: Cloud Native Technologies, AI/ML, and Modern Development Practices
-- 💡 Creating content about: GitHub Copilot; Prompt engineering; Azure cloud
-- 🤝 Looking to collaborate on: Educational Tech Projects and Open Source Initiatives
+- 🎯 **Focus Areas:** Generative AI, Cloud Architecture, DevOps Excellence, Technical Education
+- 🌱 **Current Impact:** Empowering organizations with AI-driven cloud solutions and transformative technical training
+- 💡 **Expertise:** GitHub Copilot, Azure OpenAI Service, Cloud Native Technologies, Enterprise Architecture
+- 🎤 **Industry Voice:** Regular speaker at major tech conferences and corporate events
+- 📚 **Published Author:** Multiple technical books and video courses
+- 🏆 **Recognition:** Microsoft MVP, Technical Fellow, Industry Thought Leader
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Mastery
 
 ```text
-GitHub Copilot    ⭐⭐⭐⭐⭐
-Microsoft Azure   ⭐⭐⭐⭐⭐
-DevOps            ⭐⭐⭐⭐⭐
-Python            ⭐⭐⭐
-JavaScript        ⭐⭐⭐
-Docker            ⭐⭐⭐
-PowerShell        ⭐⭐⭐⭐
+Generative AI       ⭐⭐⭐⭐⭐  Expert in prompt engineering & AI integration
+Cloud Architecture  ⭐⭐⭐⭐⭐  Azure solutions architect & evangelist
+DevOps/GitOps      ⭐⭐⭐⭐⭐  Enterprise transformation specialist
+Technical Training  ⭐⭐⭐⭐⭐  Global impact educator
+Python/JavaScript   ⭐⭐⭐⭐   Full-stack development
+Infrastructure     ⭐⭐⭐⭐   Cloud-native & hybrid solutions
 ```
 
-## 🎯 Current Focus Areas
+## 🎯 2025 Impact Areas
 
-- 🤖 Developing comprehensive AI training materials
-- ☁️ Creating cloud architecture best practices guides
-- 🔄 Building DevOps transformation frameworks
-- 📚 Writing technical documentation that actually helps
+- 🤖 **AI Leadership**
+  - Pioneering enterprise AI adoption strategies
+  - Developing AI governance frameworks
+  - Creating industry-leading AI training programs
 
-## 📊 GitHub Stats
+- ☁️ **Cloud Innovation**
+  - Architecting next-gen cloud solutions
+  - Leading cloud transformation initiatives
+  - Establishing best practices & patterns
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=timothywarner&show_icons=true&theme=dark)
+- 📚 **Knowledge Sharing**
+  - Publishing cutting-edge technical content
+  - Speaking at premier industry events
+  - Building global learning communities
 
-## 🎓 Popular Training Materials
+## 📊 GitHub Impact
 
-- [Course/Material Name 1](link) - Brief description
-- [Course/Material Name 2](link) - Brief description
-- [Course/Material Name 3](link) - Brief description
+![Tim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=timothywarner&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=timothywarner&layout=compact&theme=dark&hide_border=true)
 
-## 🤝 Let's Connect!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timothywarner&theme=dark&hide_border=true)](https://github.com/timothywarner)
+[![Tim's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=timothywarner&theme=react-dark&hide_border=true)](https://github.com/timothywarner)
 
-- 💼 LinkedIn: [Your Profile]
-- 🌐 Website: [Your Website]
-- 📺 YouTube: [Your Channel]
+<details>
+<summary>📈 Detailed GitHub Metrics</summary>
+<br>
 
-## 📅 Available For
+![Metrics](https://metrics.lecoq.io/timothywarner?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&notable=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable=false&notable.repositories=false&config.timezone=America%2FNew_York)
 
-- 💡 Technical Training
-- 🎤 Speaking Engagements
-- 💻 Workshop Facilitation
-- 📚 Content Creation
+</details>
+
+## 🎓 Featured Resources
+
+- 🌟 [Enterprise AI Implementation Guide](https://github.com/timothywarner/ai-enterprise-guide)
+- 🚀 [Cloud Architecture Patterns](https://github.com/timothywarner/cloud-patterns)
+- 💡 [AI/ML Learning Path](https://github.com/timothywarner/ai-learning-path)
+- 🔧 [DevOps Best Practices](https://github.com/timothywarner/devops-practices)
+
+## 🤝 Professional Engagement
+
+- 💼 **Technical Advisory:** Enterprise AI & Cloud Strategy
+- 🎤 **Speaking:** Keynotes & Technical Workshops
+- 📚 **Content Creation:** Books, Courses, Articles
+- 🤝 **Mentorship:** Technical Leadership Development
+
+## 📫 Connect & Collaborate
+
+- 🌐 [TechTrainerTim.com](https://techtrainertim.com)
+- 📧 [Email](mailto:tim@techtrainertim.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/timothywarner/)
+- 🎥 [YouTube](https://youtube.com/@TechTrainerTim)
+- 🐦 [Twitter](https://twitter.com/TechTrainerTim)
+- 📝 [Blog](https://techtrainertim.com/blog)
+- 📚 [Pluralsight](https://www.pluralsight.com/authors/tim-warner)
+- 🎓 [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+- 💻 [GitHub](https://github.com/timothywarner)
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=timothywarner&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=timothywarner&label=Profile+Views&style=for-the-badge" alt="Profile Views">
+</p>
+
+<p align="center">
+  <i>Let's shape the future of technology together! 🚀</i>
 </p>
