@@ -1,4 +1,4 @@
-# 🌟 Tim Warner - AI & Cloud Computing Thought Leader
+# 🌟 Tim Warner - Microsoft MVP, Author, Speaker & Trainer
 
 [![Microsoft MVP](https://img.shields.io/badge/Microsoft-MVP-blue?style=for-the-badge&logo=microsoft)](https://mvp.microsoft.com/en-US/mvp/profile/e9a13bca-2798-4247-be56-f116f780869d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timothywarner/)
