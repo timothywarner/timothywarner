@@ -1,22 +1,25 @@
 # Tim Warner
 
 Microsoft MVP • Author • Speaker • Technical Trainer  
+
 Azure • GitHub • Copilots • Cloud/DevOps • Practical, demo-first teaching
+
+Hey there! I'm Tim. I help 1M+ developers master Azure, AI, and GitHub Copilot through hands-on courses that actually work in production. Microsoft MVP | 200+ Pluralsight Courses | O'Reilly Live Instructor
 
 **Site:** https://techtrainertim.com  
 **LinkedIn:** https://www.linkedin.com/in/timothywarner/  
 **YouTube:** https://www.youtube.com/channel/UCim7PFtynyPuzMHtbNyYOXA  
 **Bluesky:** https://bsky.app/profile/techtrainertim.bsky.social  
 **Mastodon:** https://mastodon.social/@techtrainertim  
-**Email:** timothywarner316@gmail.com  
 **GitHub:** https://github.com/timothywarner  
 **Org:** https://github.com/timothywarner-org
 
 ---
 
 ## What I do
-I build **enterprise-flavored labs, demos, and courseware** around Microsoft cloud and GitHub workflows.  
-I focus on **teaching what actually works** under real constraints: time, security, and messy systems.
+I build **enterprise-flavored labs, demos, and courseware** around Microsoft cloud and GitHub workflows, incorporating generative AI at every step of the process.
+
+I focus on **teaching what actually works** under real constraints: time, security, and messy systems. My teaching inspiration is Richard Feynman.
 
 ## Featured repos (personal + org)
 ### Personal
